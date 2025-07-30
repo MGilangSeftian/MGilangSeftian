@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Laravel Framework & flutter framework.
 
-#### Skills
+<!-- #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,flutter&theme=light)]()
 
-![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
 
 #### My Github Stats
 ![mgilangseftian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGilangSeftian&show_icons=true&theme=gruvbox&hide=stars)
